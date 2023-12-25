@@ -19,6 +19,4 @@ About:
 This project allowed me to gain extensive knowledge and experience in data analysis and modeling within the domain of healthcare.
 Aspiring Data Scientist passionate about leveraging data-driven approaches to solve real-world challenges.
 
----
 
-Feel free to adjust or expand on any sections to better align with your project specifics or to emphasize other aspects of your work!
